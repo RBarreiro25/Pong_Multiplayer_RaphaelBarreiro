@@ -1,4 +1,4 @@
-# Pong Multiplayer-Game
+# Pong Multiplayer - Game
 
 This is my first JavaScript application!<br><br>
 I'm happy sharing this here.<br><br><br>
